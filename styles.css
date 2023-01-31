@@ -4,9 +4,9 @@ body {
 }
 .container {
     text-align: center;
-    color: black;
+    color: burlywood;
     padding: 1rem;
-    background-color: blue;
+    background-color: brown;
 }
 
 main {
@@ -27,9 +27,9 @@ main {
     padding: 1rem;
     margin :2px 0rem;
     display: block;
-    background-color:black;
+    background-color:orange;
     font-family: 'Berkshire Swash', cursive;
-    color: blue;
+    color: whitesmoke;
     border: none;
 }
 #output {
